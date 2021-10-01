@@ -14,7 +14,7 @@ def ask():
         print('bad input, again')
         text = input()
     operator = text
-
+# teszt
     print('2. operand')
     text = input()
     while not text.isnumeric():
