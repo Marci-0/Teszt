@@ -24,6 +24,7 @@ def ask():
 
     return operand1, operator, operand2
 
+
 def calculate(operand1, p_operator, operand2):
     rv = 0
     if p_operator == '+':
